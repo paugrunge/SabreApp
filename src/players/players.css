@@ -1,0 +1,12 @@
+#tb-players {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#tb-players th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #7a3c3c;
+  color: white;
+}
